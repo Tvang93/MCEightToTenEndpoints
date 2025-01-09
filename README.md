@@ -20,4 +20,4 @@ Brief Description:
 
         3. Restaurant Picker: create 1 endpoint that takes an input and generates a Randomly Generated Restaurant based on the category chosen. 10 Restaurants per category.
 
-Peer Review:
+Peer Review: Tanush Kumar - I have no feedback for improvement. Good Job!
