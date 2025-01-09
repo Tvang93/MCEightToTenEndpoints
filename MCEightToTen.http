@@ -1,0 +1,6 @@
+@MCEightToTen_HostAddress = http://localhost:5155
+
+GET {{MCEightToTen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
